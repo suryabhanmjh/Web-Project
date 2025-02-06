@@ -9,7 +9,7 @@ I'll provide the code for: <br>
 
 
 ## 🔗 Live Demo
-[View the Project on Vercel](https://vercel.com/suryabhan-singhs-projects/to-do-list/FFMDgmFuVw4FtYj2SMgxbWpoK4nm)
+[View the Project on Vercel](https://to-do-list-suryabhan-singhs-projects.vercel.app/)
 
 ## Features
 - Add and remove tasks
